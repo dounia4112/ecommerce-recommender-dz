@@ -3,3 +3,6 @@ pip
 python-dotenv
 ruff
 -e .
+beautifulsoup4
+requests
+pandas
