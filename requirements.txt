@@ -6,3 +6,5 @@ ruff
 beautifulsoup4
 requests
 pandas
+seaborn
+matplotlib
